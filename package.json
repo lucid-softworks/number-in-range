@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/number-in-range",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Check half-open numeric ranges with order-independent bounds.",
   "keywords": [
     "in",
